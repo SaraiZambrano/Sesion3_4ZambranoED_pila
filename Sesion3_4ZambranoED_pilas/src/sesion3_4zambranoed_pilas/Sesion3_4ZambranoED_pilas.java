@@ -24,6 +24,8 @@ public class Sesion3_4ZambranoED_pilas {
        pilaZambrano.push(160);
        
         JOptionPane.showMessageDialog(null, "Datos en pila ordenada es :\n"+pilaZambrano);
+        
+        JOptionPane.showMessageDialog(null, "Autor: Zambrano Sarai");
     }
     
 }
